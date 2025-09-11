@@ -3,7 +3,7 @@ text
 # VeinSegmentation_Prototype
 
 ## Overview
-This prototype implements U-Net based segmentation for vein detection, suitable for competition datasets like YIP and SIH.
+This prototype implements U-Net based segmentation for vein detection
 
 ## Setup
 pip install torch torchvision opencv-python numpy pillow
